@@ -1,0 +1,42 @@
+body{
+    background-color: #f2f2f2;
+}
+#loadingScreen{
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background-color:#fff;
+  background-image: url('img/loader-2_food.gif');
+  background-repeat: no-repeat;
+  background-position: center;
+  
+  z-index: 99999;
+}
+
+
+
+.bg-nav{
+    background: #bc4e9c; /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #f80759, #bc4e9c); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #f80759, #bc4e9c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+    }
+    
+    .mt-100{
+    margin-top: 100px;
+    }
+    
+    .mt-50{
+    margin-top: 50px;
+    }
+
+
+.mt-20{
+  margin-top: 20px;
+}
+.text-dec{
+  text-decoration: none;
+}
+.bt-20 {
+  margin-bottom: 20px;
+}
